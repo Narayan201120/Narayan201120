@@ -62,5 +62,7 @@ I'm **Narayan Joshi**, a passionate **Data Analyst Intern** based in **Maharasht
 ![Contact](https://img.icons8.com/fluency/48/000000/email.png)  
 
 - GitHub: [Narayan201120](https://github.com/Narayan201120)  
-- LinkedIn: [https://www.linkedin.com/in/narayan-joshi-85227425a]
-- Email: [joshi.narayan2004@gmail.com]
+- LinkedIn:
+[Narayan Joshi](https://www.linkedin.com/in/narayan-joshi-85227425a)
+- Email:
+[Mail me](joshi.narayan2004@gmail.com)
