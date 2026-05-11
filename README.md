@@ -1,68 +1,46 @@
+# Hi, I'm Narayan Joshi
 
-
-# Hi there, I'm Narayan Joshi! 👋  
-
-![Profile Picture](https://github.com/Narayan201120.png)
-
-## 🌟 About Me  
-
-I'm **Narayan Joshi**, a passionate **Data Analyst Intern** based in **Maharashtra, India**. I love transforming raw data into actionable insights to drive impactful decisions. Currently, I'm a third-year undergraduate student at **SITS, Narhe**, pursuing my dream of making a mark in the world of data analytics.  
+**Backend Developer | AI/ML Engineer**
+Final year Electronics & Telecommunication student at SITS, Narhe, Pune.
+I build production-grade backend systems and AI infrastructure.
 
 ---
 
-## 💼 Professional Experience  
+## What I'm Building
 
-- **Data Analyst Intern**  
-  ![Data Analysis](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-analysis-data-analytics-flaticons-flat-flat-icons.png)  
-  - Gaining hands-on experience in data analysis, interpretation, and visualization.  
-  - Leveraging tools and techniques to uncover insights and support decision-making processes.  
+- **[ARGUS](https://github.com/Narayan201120/argus)** — Multi-model AI orchestration framework routing queries across Gemini, OpenAI, and Claude in parallel with async dispatch and a composite eval harness scoring quality, cost, and latency.
 
----
+- **[DocuMind](https://github.com/Narayan201120/documind)** — Production RAG platform with two-stage FAISS and cross-encoder retrieval, BYOK LLM routing, DeepEval-based generation scoring, and a 31-endpoint Django/FastAPI backend.
 
-## 💻 Skills  
+- **[Meridian](https://github.com/Narayan201120/meridian)** — Full-stack productivity platform on React Native, FastAPI, PostgreSQL, Redis, and Supabase Realtime with two-way Google Calendar and Outlook sync and Whisper API transcription.
 
-![Python](https://img.icons8.com/color/48/000000/python.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Excel](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-excel-office-flat-flat-juicy-fish.png)  
-
-- **Programming Languages**: Python, C++, C  
-- **Data Tools**: Microsoft Excel, Data Visualization Libraries (e.g., Matplotlib, Seaborn)  
-- **Core Competencies**: Data Cleaning, Data Analysis, Customer Segmentation  
+- **[DMP](https://github.com/Narayan201120/dmp)** *(in progress)* — Distributed LLM training daemon. BitTorrent-style, DHT peer discovery, coordinate-wise median gradient aggregation, node trust scoring, no central server.
 
 ---
 
-## 📚 Education  
+## Skills
 
-![Education](https://img.icons8.com/color/48/000000/student-male--v1.png)  
+**Backend:** Python, Django, FastAPI, DRF, PostgreSQL, Redis, Celery, WebSockets, JWT Auth, Supabase
 
-- **Undergraduate**: Third-year student, **Computer Science and Engineering**, **SITS, Narhe**  
+**AI/ML:** RAG, LLMs (OpenAI, Gemini, Llama, Claude), Vector Embeddings, pgvector, FAISS, DeepEval, Whisper API, AI Agents
 
----
+**Frontend/Mobile:** React Native, Expo, React, REST API Integration
 
-## 🚀 Projects  
+**Tools:** Docker, Git, Linux, Postman, Power BI
 
-![Project](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-project-management-project-management-flat-flat-juicy-fish.png)  
-
-- **Ecommerce Customer Segmentation**  
-  ![Ecommerce](https://source.unsplash.com/300x200/?ecommerce,data)  
-  - Conducted customer segmentation based on purchasing patterns to enable targeted marketing campaigns.  
-  - Analyzed trends and provided actionable recommendations to improve retention and sales.  
+**Languages:** Python, C, C++, Java, SQL, HTML/CSS
 
 ---
 
-## 🎸 Interests  
+## Experience
 
-![Movies](https://img.icons8.com/fluency/48/000000/clapperboard.png) ![Music](https://img.icons8.com/fluency/48/000000/musical-notes.png)  
-
-- **Movies & Series**: A proud cinephile who loves exploring stories and genres.  
-- **Music**: Music is my daily escape and creative inspiration.  
+- **Data Science & Analytics Intern** — Zidio Development (May 2024 – Aug 2024)
+- **Power BI Intern** — KasNet Technologies (Jan 2025 – Mar 2025)
 
 ---
 
-## 📫 Contact Me  
+## Contact
 
-![Contact](https://img.icons8.com/fluency/48/000000/email.png)  
-
-- GitHub: [Narayan201120](https://github.com/Narayan201120)  
-- LinkedIn:
-[Narayan Joshi](https://www.linkedin.com/in/narayan-joshi-85227425a)
-- Email:
-[Mail me](joshi.narayan2004@gmail.com)
+- Email: joshi.narayan2004@gmail.com
+- LinkedIn: [narayan-joshi-85227425a](https://linkedin.com/in/narayan-joshi-85227425a)
+- GitHub: [Narayan201120](https://github.com/Narayan201120)
