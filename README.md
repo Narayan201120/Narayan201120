@@ -10,7 +10,7 @@ Looking for Full-Stack, Backend, AI Engineer, or Gen AI roles.
 - **[ARGUS](https://github.com/Narayan201120/argus).** Async orchestration across OpenAI, Anthropic, and Gemini with per-provider timeout isolation and cost-aware routing.
 - **[Meridian](https://github.com/Narayan201120/meridian).** Offline-first productivity app. Real-time sync, two-way Google Calendar and Outlook sync, Whisper voice-to-task.
 - **[Research Radar](https://github.com/Narayan201120/research-radar).** Research paper search with BM25, RRF hybrid ranking, and semantic find-similar. Covered by 105 tests.
-- **[WindLens](https://github.com/Narayan201120/tcnswzd).** Decision support for day-ahead wind power buying on the GB grid. [Live app](https://windlens-dayahead.vercel.app).
+- **[AirLock DB](https://github.com/Narayan201120/airlock-db).** Local-first migration CLI for air-gapped environments. Strict schema validation, SQLite or JSONL output, one self-contained HTML report. Makes no network requests.
 
 Right now I'm building CV-ITSA, an adaptive traffic signal system that estimates vehicle density with computer vision on a Raspberry Pi 4.
 
